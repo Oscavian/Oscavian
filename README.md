@@ -1,25 +1,12 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=48AFE4&multiline=true&lines=string*+greet++%3D+new+String(%22Hi!%22))](https://git.io/typing-svg)
-My name's Oskar and I'm
-- 🔭 studying computer science
-- 🌱 currently learning C++, PHP, JavaScript
-- ⚡ especially interested in Softwaredevelopment & IT Security
+### ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3FACDC&background=FFFFFF00&lines=std%3A%3Acout+%3C%3C+%22Hey+there!%F0%9F%91%8B%22)]
+Something about myself:
+- 🔭 computer science student (still motivated)
+- 🐧 Average Linux enjoyer
+- 🌐 Osi was my nickname long before i knew the [OSI-Model](https://en.wikipedia.org/wiki/OSI_model)
 - 👯 teammember & developer at [Neostralis](https://neostralis.com)
 
-📫 How to reach me: hello (at) oscavian (dot) com
+Note: Most of my work is not yet worth to be looked at. So don't waste your time.
+
+📫 In case you want to contact me: hello (at) oscavian (dot) com
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oscavian&layout=compact&hide_border=true&card_width=300&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
-
-<!--
-**Oscavian/Oscavian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-
--->
