@@ -1,12 +1,17 @@
-### ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3FACDC&background=FFFFFF00&lines=std%3A%3Acout+%3C%3C+%22Hey+there!%F0%9F%91%8B%22)
+### [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=echo+%22Hey+there+%F0%9F%91%8B%22+%3E+README.md)](https://git.io/typing-svg)
 Something about myself:
-- 🔭 computer science student (still motivated)
-- 🐧 Average Linux enjoyer
-- 🌐 Osi was my nickname long before i knew the [OSI-Model](https://en.wikipedia.org/wiki/OSI_model)
-- 👯 teammember & developer at [Neostralis](https://neostralis.com)
+- 🔭 Computer Science student
+- 🐧 Average GNU/Linux enjoyer
+- 🔐 Especially interested in Security & DevOps
+- 🏐 My second home is the volleyball court
+- 👯 teammember & developer in my freetime at [Neostralis](https://neostralis.com)
 
-Note: Most of my work is not yet worth to be looked at. So don't waste your time.
+Currently working on:
+- A JavaFX project
+- System hardening & Network Security
+- Configuration Management & CI/CD
 
 📫 In case you want to contact me: hello (at) oscavian (dot) com
 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Oscavian&&layout=compact&count_private=true&show_icons=true&hide_border=true&card_width=200&include_all_commits=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oscavian&layout=compact&hide_border=true&card_width=300&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
